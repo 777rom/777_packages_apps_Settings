@@ -557,7 +557,7 @@
     <!-- The title of the activity to see phone info -->
     <string name="phone_info_label" product="tablet">Tablet info</string>
     <!-- The title of the activity to see phone info -->
-    <string name="phone_info_label" product="default">Phone info</string>
+    <string name="phone_info_label" product="default">Gnex info</string>
     <!-- The title of the activity to adjust SD card settings [CHAR LIMIT=25] -->
     <string name="sd_card_settings_label" product="nosdcard">USB storage</string>
     <!-- The title of the activity to adjust SD card settings-->
