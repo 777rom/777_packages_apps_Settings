@@ -113,8 +113,8 @@
     <string name="device_hostname">Device hostname</string>
 
     <!-- About phone screen,  setting option name-->
-    <string name="mod_version">CyanogenMod version</string>
-    <string name="mod_version_default">Unknown</string>
+    <string name="mod_version">Seven version</string>
+    <string name="mod_version_default">0.1</string>
     <!-- About phone screen, build date of ROM -->
     <string name="build_date">Build date</string>
     <string name="build_date_default" translatable="false">2013-01-01-0000</string>
@@ -146,7 +146,7 @@
     <string name="preview_device_title">Device</string>
     <string name="preview_version_title">Version</string>
     <string name="preview_country_title">Country</string>
-    <string name="preview_carrier_title">Carrier</string>
+    <string name="preview_carrier_title">Seven</string>
 
     <!-- INTERFACE Settings  -->
     <!-- Settings main menu category heading. Interface (Launcher, Themes, System). [CHAR LIMIT=40] -->
